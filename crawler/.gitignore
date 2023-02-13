@@ -1,0 +1,8 @@
+.metadata/
+crawler/.settings/
+crawler/maven-repository/
+crawler/storage/
+crawler/target/
+crawler/.classpath
+crawler/.project
+crawler/app.log
