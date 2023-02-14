@@ -9,6 +9,9 @@
 - Yanzhi Wu (yanzhiwu@seas.upenn.edu)
 - Yuanhong Xiao (yuanhong@seas.upenn.edu)
 
+#### Sample:
+![Image text](https://github.com/Jingxuan-Bao/Web-Search-Engine/blob/b17b75fc7f067d68296dc0fdffbad8a89e8c4bb2/image/sample1.png)
+![Image text](https://github.com/Jingxuan-Bao/Web-Search-Engine/blob/b17b75fc7f067d68296dc0fdffbad8a89e8c4bb2/image/sample2.png)
 #### To run each component locally:
 
 - First, install all dependencies needed for each component.
