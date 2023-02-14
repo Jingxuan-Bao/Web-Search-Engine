@@ -1,4 +1,4 @@
-# CIS555 Final Project
+# Web Search Engine
 
 #### Group Name on Canvas: Strugle
 
